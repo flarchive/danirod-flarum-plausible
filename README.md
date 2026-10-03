@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of danirod/flarum-plausible.** Not for installation: use [Packagist](https://packagist.org/packages/danirod/flarum-plausible) or the [upstream repository](https://github.com/danirod/flarum-plausible).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/danirod-flarum-plausible/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/danirod-flarum-plausible/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-10-18 | `^1.2.0` | [Browse](https://github.com/flarchive/danirod-flarum-plausible/tree/archive/v1.0.0) |
+| `v1.1.0` | 2023-10-20 | `^1.2.0` | [Browse](https://github.com/flarchive/danirod-flarum-plausible/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/danirod-flarum-plausible.json](https://github.com/flarchive/archive-index/blob/main/packages/danirod-flarum-plausible.json)
 
